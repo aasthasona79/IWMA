@@ -1,0 +1,18 @@
+.abcd{
+  
+  background-image: url('images/Keynote/akt.jpg');
+  /*opacity: 0.1;*/
+
+  /*filter: alpha(opacity=10);*/
+  height:500px;
+  width:500px;
+}
+.ttt{
+  background: rgba(0,0,0,0.9);
+  height:500px;
+  width:500px;
+}
+
+td{
+	border:2px solid black !important;
+}

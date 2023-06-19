@@ -1,0 +1,13 @@
+1. Dr. dutta roy to Prof. - > check names of all profs in the speakers list. it is wrong in some cases. Also, their organisations also.
+2. Speakers from IBM, Matlab, Nvidia will also be joining. => add this line at the bottom of the speakers list.
+3. Phone +91 -> at the bottom add +91 to number
+4. Address- > venue Address should be replaced by venue at the bottom of veery page.
+5. Participation spelling is wrong.
+6. Register heading -> Register tab in the nav bar spelling is wrong on the registration page.
+7. Sponsor in the home page -> add tab for sponsors on the home page. Leave the section empty for now.
+8. Registration form - design. later.
+9. Headings in same case -> headings are in different cases at different pages. mmake them uniform
+10. Person to contact- Dr. Puneet Jain -> at the bottom add contact person.
+11. Phone number optional. extra field for Role(Student(UG/PG)/Industry/Research Scholar/ Faculty) - link the contact us form to the email id provided below. 
+12. Dr. Phalguni Gupta- NITTR (IITKanpur) - prof names and org check
+13. Prof. Santanu Chaudhury CEERI (IIT D) -  prof names and org check.
